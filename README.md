@@ -1,0 +1,3 @@
+# News-Sentiment-Analysis-for-Stock-Market-Prediction
+
+In this project, I focused on applying Natural Language Processing (NLP) techniques to preprocess news articles, transforming the text into a structured format using TF-IDF for effective representation. I then implemented and compared multiple machine learning models, including Random Forest, Logistic Regression, and Support Vector Machine (SVM), to classify the articles. Through detailed evaluation using confusion matrices, Random Forest emerged as the top-performing model. Further improvements were achieved by fine-tuning the model's hyperparameters using GridSearchCV, enhancing its predictive accuracy and reliability.
